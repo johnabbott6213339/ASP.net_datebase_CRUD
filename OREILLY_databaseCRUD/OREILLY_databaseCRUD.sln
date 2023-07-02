@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OREILLY_databaseCRUD", "OREILLY_databaseCRUD.csproj", "{58E4EE28-9A6C-4F23-AFA1-09C4A39D1689}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58E4EE28-9A6C-4F23-AFA1-09C4A39D1689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E4EE28-9A6C-4F23-AFA1-09C4A39D1689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E4EE28-9A6C-4F23-AFA1-09C4A39D1689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E4EE28-9A6C-4F23-AFA1-09C4A39D1689}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85155A82-BF7A-4EDA-A16C-E8B675BFFDB4}
+	EndGlobalSection
+EndGlobal
